@@ -1,0 +1,4 @@
+.products-table td {
+    max-width: 400px;
+    min-width: 210px;
+}
